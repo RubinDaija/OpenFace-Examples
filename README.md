@@ -12,5 +12,5 @@ On how to set up OpenFace you can follow the steps on the pdf. The steps work fo
 
 
 For more information please visit:
-https://cmusatyalab.github.io/openface/ 
-https://github.com/cmusatyalab/openface 
+- https://cmusatyalab.github.io/openface/ 
+- https://github.com/cmusatyalab/openface 
